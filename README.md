@@ -1,2 +1,2 @@
 # PasswordGenerator.com
-A Random password generator usinf Javascript
+A Random password generator using Javascript
